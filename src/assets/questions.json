@@ -10,331 +10,331 @@
             "question_id": 2,
             "question": "What does the Constitution do?",
             "answer": "1. Sets up the government 2. Defines the government 3. protects basic rights of Americans ",
-            "translation": ""
+            "translation": "憲法是做什麼的？"
         },
         {   
             "question_id": 3,
             "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
             "answer": "We the People",
-            "translation": ""
+            "translation": "在憲法內自治理念中的前三個字是什麼？"
         },
         {   
             "question_id": 4,
             "question": "What is an amendment?",
             "answer": " 1. A change (to the Constitution) 2. An addition (to the Constitution)",
-            "translation": ""
+            "translation": "什麼是修正案"
         },
         {   
             "question_id": 5,
             "question": "What do we call the first ten amendments to the Constitution?",
             "answer": "The Bill of Rights ",
-            "translation": ""
+            "translation": "我們把憲法的前十項修正案稱為什麼？"
         },
         {   
             "question_id": 6,
             "question": "What is one right or freedom from the First Amendment?",
             "answer": "1. Speech 2. Religion 3. Assembly 4. Press 5. Petition the government ",
-            "translation": ""
+            "translation": "第一修正案規定的其中之一項權利或自由是什麼？"
         },
         {   
             "question_id": 7,
             "question": "How many amendments does the Constitution have?",
             "answer": "Twenty-seven (27)",
-            "translation": ""
+            "translation": "憲法有多少條修正案？"
         },
         {   
             "question_id": 8,
             "question": "What did the Declaration of Independence do? ",
             "answer": "1. Announced our independence (from Great Britain) 2. Declared our independence (from Great Britain) 3. Said that the United States is free (from Great Britain)",
-            "translation": ""
+            "translation": "獨立宣言做了什麼？"
         },
         {   
             "question_id": 9,
             "question": "What are two rights in the Declaration of Independence? ",
             "answer": "1. Life 2. Liberty 3.pursuit of happiness",
-            "translation": ""
+            "translation": "《獨立宣言》中的兩項權利是什麼？"
         },
         {   
             "question_id": 10,
             "question": "What is freedom of religion? ",
             "answer": "You can practice any religion, or not practice a religion. ",
-            "translation": ""
+            "translation": "什麼是宗教自由？"
         },
         {   
             "question_id": 11,
             "question": "What is the economic system in the United States? ",
             "answer": "1. Capitalist economy 2. Market economy",
-            "translation": ""
+            "translation": "美國的經濟制度是怎樣的？"
         },
         {   
             "question_id": 12,
             "question": "What is the “rule of law”? ",
             "answer": "1. Everyone must follow the law. 2. Leaders must obey the law. 3. Government must obey the law. 4. No one is above the law. ",
-            "translation": ""
+            "translation": "什麼是“法治”？"
         },
         {   
             "question_id": 13,
             "question": "Name one branch or part of the government. ",
             "answer": " 1. Congress 2. Legislative 3. President 4. Executive 5. The courts 6. Judicial",
-            "translation": ""
+            "translation": "說出一個部門或政府的一部分"
         },
         {   
             "question_id": 14,
             "question": "What stops one branch of government from becoming too powerful? ",
             "answer": "1. Checks and balances 2. Separation of powers ",
-            "translation": ""
+            "translation": "是什麼阻止一個政府部門變得過於強大？"
         },
         {   
             "question_id": 15,
             "question": " Who is in charge of the executive branch?",
             "answer": " The President ",
-            "translation": ""
+            "translation": "誰負責行政部門？"
         },
         {   
             "question_id": 16,
             "question": "Who makes federal laws? ",
             "answer": " 1. Congress 2. Senate and House (of Representatives) 3. (U.S. or national) legislature",
-            "translation": ""
+            "translation": "誰制定聯邦法律？"
         },
         {   
             "question_id": 17,
             "question": "What are the two parts of the U.S. Congress? ",
             "answer": "The Senate and House (of Representatives) ",
-            "translation": ""
+            "translation": "美國國會由哪兩部分組成？"
         },
         {   
             "question_id": 18,
             "question": "How many U.S. Senators are there? ",
             "answer": "One hundred (100) ",
-            "translation": ""
+            "translation": "美國有多少參議員？"
         },
         {   
             "question_id": 19,
             "question": " We elect a U.S. Senator for how many years?",
             "answer": "Six(6)",
-            "translation": ""
+            "translation": "我們選舉美國參議員多少年？"
         },
         {   
             "question_id": 20,
-            "question": "Who is one of your state`s U.S. Senators now?* ",
-            "answer": "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.] ",
-            "translation": ""
+            "question": "Who is one of your state's U.S. Senators now?* ",
+            "answer": "1) Alex Padilla 2) Dianne Feinstein",
+            "translation": "誰現在是你們州的美國參議員之一？"
         },
         {   
             "question_id": 21,
             "question": "The House of Representatives has how many voting members? ",
             "answer": "four hundred thirty-five (435)",
-            "translation": ""
+            "translation": "眾議院有多少有投票權的議員？"
         },
         {   
             "question_id": 22,
             "question": "We elect a U.S. Representative for how many years? ",
             "answer": "Two(2) ",
-            "translation": ""
+            "translation": "我們選舉美國代表多少年？"
         },
         {   
             "question_id": 23,
             "question": "Name your U.S. Representative. ",
-            "answer": "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.] ",
-            "translation": ""
+            "answer": "Jimmy Gomez",
+            "translation": "您的美國代表"
         },
         {   
             "question_id": 24,
             "question": "Who does a U.S. Senator represent?",
             "answer": "All people of the state ",
-            "translation": ""
+            "translation": "美國參議員代表誰？"
         },
         {   
             "question_id": 25,
             "question": "Why do some states have more Representatives than other states? ",
             "answer": "1) (because of) the people/'s population 2)(because) they have more people 3)(because) some states have more people ",
-            "translation": ""
+            "translation": "為什麼有些州比其他州有更多的代表？"
         },
         {   
             "question_id": 26,
             "question": "We elect a President for how many years? ",
             "answer": "four (4) ",
-            "translation": ""
+            "translation": "我們選總統多少年？"
         },
         {   
             "question_id": 27,
             "question": "In what month do we vote for President?* ",
             "answer": "November ",
-            "translation": ""
+            "translation": "我們在幾月份投票選舉總統？"
         },
         {   
             "question_id": 28,
             "question": "What is the name of the President of the United States now?* ",
             "answer": "President Joe Biden ",
-            "translation": ""
+            "translation": "現在美國總統叫什麼名字"
         },
         {   
             "question_id": 29,
             "question": "What is the name of the Vice President of the United States now? ",
             "answer": "Kamala Harris",
-            "translation": ""
+            "translation": "美國副總統現在叫什麼名字"
         },
         {   
             "question_id": 30,
             "question": "If the President can no longer serve, who becomes President? ",
             "answer": "the Vice President ",
-            "translation": ""
+            "translation": "如果總統不能再任職，誰來當總統？"
         },
         {   
             "question_id": 31,
             "question": "If both the President and the Vice President can no longer serve, who becomes President? ",
             "answer": "the Speaker of the House ",
-            "translation": ""
+            "translation": "如果總統和副總統都不能再任職，誰來當總統？"
         },
         {   
             "question_id": 32,
             "question": "Who is the Commander in Chief of the military? ",
             "answer": "the President",
-            "translation": ""
+            "translation": "誰是軍隊的總司令？"
         },
         {   
             "question_id": 33,
             "question": "Who signs bills to become laws? ",
             "answer": "the President ",
-            "translation": ""
+            "translation": "誰簽署法案成為法律？"
         },
         {   
             "question_id": 34,
             "question": "Who vetoes bills? ",
             "answer": "the President ",
-            "translation": ""
+            "translation": "誰否決法案？"
         },
         {   
             "question_id": 35,
             "question": "What does the President’s Cabinet do? ",
             "answer": "advises the President ",
-            "translation": ""
+            "translation": "總統內閣做什麼？"
         },
         {   
             "question_id": 36,
             "question": "What are two Cabinet-level positions? ",
             "answer": "1) Vice President 2)Secretary of Energy 3)Secretary of Education... ",
-            "translation": ""
+            "translation": "什麼是兩個內閣級職位？"
         },
         {   
             "question_id": 37,
             "question": "What does the judicial branch do? ",
             "answer": "1) reviews laws 2) explains laws 3) resolves disputes (disagreements) 4) decides if a law goes against the Constitution ",
-            "translation": ""
+            "translation": "司法部門是做什麼的？"
         },
         {   
             "question_id": 38,
             "question": "What is the highest court in the United States? ",
             "answer": "the Supreme Court ",
-            "translation": ""
+            "translation": "美國最高法院是什麼？"
         },
         {   
             "question_id": 39,
             "question": "How many justices are on the Supreme Court? ",
             "answer": "Nine (9) - 2022 ",
-            "translation": ""
+            "translation": "最高法院有多少法官？"
         },
         {   
             "question_id": 40,
             "question": "Who is the Chief Justice of the United States now? ",
             "answer": "John Roberts ",
-            "translation": ""
+            "translation": "現在美國的首席大法官是誰？"
         },
         {   
             "question_id": 41,
             "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government? ",
             "answer": "1) to print money 2) to declare war 3) to create an army 4) to make treaties ",
-            "translation": ""
+            "translation": "根據我們的憲法，一些權力屬於聯邦政府。 聯邦政府的一項權力是什麼？"
         },
         {   
             "question_id": 42,
             "question": "Under our Constitution, some powers belong to the states. What is one power of the states? ",
             "answer": "1) provide schooling and education 2) provide protection (police) 3) provide safety (fire departments) 4) give a driver/'s license 5) approve zoning and land use",
-            "translation": ""
+            "translation": "根據我們的憲法，有一些權力屬於各州。 有那一些權力是屬於州政府？"
         },
         {   
             "question_id": 43,
             "question": "Who is the Governor of your state now? ",
             "answer": "Gavin Newsom ",
-            "translation": ""
+            "translation": "現在你們州的州長是誰？"
         },
         {   
             "question_id": 44,
             "question": "What is the capital of your state?* ",
             "answer": "Sacramento ",
-            "translation": ""
+            "translation": "你所在州的首府是哪裡？"
         },
         {   
             "question_id": 45,
             "question": "What are the two major political parties in the United States?* ",
             "answer": "Democratic and Republican ",
-            "translation": ""
+            "translation": "美國的兩大政黨是什麼？"
         },
         {   
             "question_id": 46,
             "question": "What is the political party of the President now? ",
             "answer": "Democratic Party ",
-            "translation": ""
+            "translation": "現在總統的政黨是什麼？"
         },
         {   
             "question_id": 47,
             "question": "What is the name of the Speaker of the House of Representatives now? ",
             "answer": "Kevin McCarthy ",
-            "translation": ""
+            "translation": "現在的眾議院議長叫什麼名字？"
         },
         {   
             "question_id": 48,
             "question": "There are four amendments to the Constitution about who can vote. Describe one of them. ",
             "answer": "1) Citizens eighteen (18) and older (can vote). 2) You don/'t have to pay (a poll tax) to vote. 3)Any citizen can vote. (Women and men can vote.) 4) A male citizen of any race (can vote). ",
-            "translation": ""
+            "translation": "關於誰可以投票，憲法有四項修正案。 描述其中之一。"
         },
         {   
             "question_id": 49,
             "question": "What is one responsibility that is only for United States citizens?* ",
             "answer": "1) serve on a jury 2) vote in a federal election ",
-            "translation": ""
+            "translation": "美國公民的其中一項責任是什麼？"
         },
         {   
             "question_id": 50,
             "question": "Name one right only for United States citizens. ",
             "answer": "1) vote in a federal election 2) run for federal office ",
-            "translation": ""
+            "translation": "舉出美國公民的其中一項權利"
         },
         {   
             "question_id": 51,
             "question": "What are two rights of everyone living in the United States? ",
             "answer": "1) freedom of expression 2) freedom of speech 3) freedom of assembly 4)freedom to petition the government 5)freedom of religion 6)the right to bear arms ",
-            "translation": ""
+            "translation": "舉出居住在美國的每個人的兩項權利"
         },
         {   
             "question_id": 52,
             "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
             "answer": "1) the United States 2) the flag ",
-            "translation": ""
+            "translation": "當我們宣讀效忠誓言時，我們在表達對什麼的忠誠？"
         },
         {   
             "question_id": 53,
             "question": "What is one promise you make when you become a United States citizen? ",
             "answer": "1) give up loyalty to other countries 2) defend the Constitution and laws of the United States 3) obey the laws of the United States 4) serve in the U.S. military (if needed) 5) serve (do important work for) the nation (if needed) ▪ be loyal to the United States ",
-            "translation": ""
+            "translation": "當您成為美國公民時，您做出的一項承諾是什麼？"
         },
         {   
             "question_id": 54,
             "question": "How old do citizens have to be to vote for President?* ",
             "answer": "Eighteen (18) and older ",
-            "translation": ""
+            "translation": "公民必須多大才能投票選舉總統？"
         },
         {   
             "question_id": 55,
             "question": "What are two ways that Americans can participate in their democracy? ",
             "answer": "1) vote 2)write to a newspaper",
-            "translation": ""
+            "translation": "美國人參與民主的兩種方式是什麼？"
         },
         {   
             "question_id": 56,
             "question": "When is the last day you can send in federal income tax forms?* ",
             "answer": "April 15 ",
-            "translation": ""
+            "translation": "您可以提交聯邦所得稅表格的最後一天是什麼時候？"
         },
         {   
             "question_id": 57,

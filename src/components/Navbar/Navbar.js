@@ -7,14 +7,14 @@ const Navbar = () => {
     const navigate = useNavigate();
     return (
         <nav className="navbar">
-            <img
+            {/* <img
                 src={require(`../../assets/mt-logo.jpeg`)}
                 alt="Mandy logo"
                 className="mandy"
                 onClick={() => {
                     navigate("/");
                 }}
-            />
+            /> */}
             <img
                 src={require(`../../assets/${navbar ? "x-white" : "menu-white"}.png`)}
                 alt="menu icon"
