@@ -8,7 +8,7 @@ import Test from './components/Test/Test';
 
 function App() {
   return (
-      <Router>
+      <Router basename="/react-test">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
