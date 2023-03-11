@@ -20,11 +20,11 @@ const Home = () => {
         <div style={{ width: '100%', height: '100%' }}>
             <Box sx={{ p: 5 }}>
                 <h1 style={{ textAlign: 'center' }}>Study Page</h1>
-                {questions.questions.map((q) => (
+                {questions.questions.map(q => (
                     <Stack sx={{ p: 2 }}>
                         <Item>
                             <Panel
-                                key={q.toString()}
+                                key={q.id}
                                 id={q.question_id}
                                 question={q.question}
                                 answer={q.answer}
