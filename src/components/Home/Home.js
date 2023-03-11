@@ -24,7 +24,7 @@ const Home = () => {
                     <Stack sx={{ p: 2 }}>
                         <Item>
                             <Panel
-                                key={q.question_id}
+                                
                                 id={q.question_id}
                                 question={q.question}
                                 answer={q.answer}
