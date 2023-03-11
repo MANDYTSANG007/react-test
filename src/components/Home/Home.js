@@ -24,8 +24,8 @@ const Home = () => {
                     <Stack sx={{ p: 2 }}>
                         <Item>
                             <Panel
-                                key={q.id}
-                                id={q.id}
+                                key={q.question_id}
+                                id={q.question_id}
                                 question={q.question}
                                 answer={q.answer}
                                 translation={q.translation}
@@ -38,7 +38,7 @@ const Home = () => {
     );
 };
 
-function Panel({ question_id, question, answer, translation }) {
+function Panel({ id, question, answer, translation }) {
     const [isAnswerVisible, setIsAnswerVisible] = useState(false);
     const [isTranslationVisible, setIsTranslationVisible] = useState(false);
 
@@ -52,10 +52,8 @@ function Panel({ question_id, question, answer, translation }) {
 
     return (
         <section>
-             <p>{question_id}</p>
             <h1>
-               
-                {question}
+                {id}. {question}
             </h1>
             {isAnswerVisible ? (
                 <div>
@@ -79,3 +77,5 @@ function Panel({ question_id, question, answer, translation }) {
 
 
 export default Home;
+
+
