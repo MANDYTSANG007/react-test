@@ -28,6 +28,7 @@ const Home = () => {
                                 question={q.question}
                                 answer={q.answer}
                                 translation={q.translation}
+                                translationAnswer={q.answer2}
                             />
                         </Item>
                     </Stack>
@@ -37,9 +38,10 @@ const Home = () => {
     );
 };
 
-function Panel({ id, question, answer, translation }) {
+function Panel({ id, question, answer, translation, translationAnswer }) {
     const [isAnswerVisible, setIsAnswerVisible] = useState(false);
     const [isTranslationVisible, setIsTranslationVisible] = useState(false);
+    const [isTranslationAnsVisible, setIsTranslationAnsVisible] = useState(false);
 
     const toggleAnswerVisibility = () => {
         setIsAnswerVisible(!isAnswerVisible);
@@ -49,6 +51,10 @@ function Panel({ id, question, answer, translation }) {
         setIsTranslationVisible(!isTranslationVisible);
     };
 
+    const toggleTranslationAnsVisibility = () => {
+        setIsTranslationAnsVisible(!isTranslationAnsVisible);
+    };
+
     return (
         <section>
             <h1>
@@ -56,7 +62,7 @@ function Panel({ id, question, answer, translation }) {
             </h1>
             {isAnswerVisible ? (
                 <div>
-                    <p style={{fontSize: "24px", color: "purple"}}>{answer}</p>
+                    <p style={{ fontSize: "24px", color: "purple" }}>{answer}</p>
                     <Button variant="outlined" onClick={toggleAnswerVisibility}>Hide</Button>
                 </div>
             ) : (
@@ -69,6 +75,14 @@ function Panel({ id, question, answer, translation }) {
                 </div>
             ) : (
                 <Button onClick={toggleTranslationVisibility}>展示中文</Button>
+            )}
+            {isTranslationAnsVisible ? (
+                <div>
+                    <p>{translationAnswer}</p>
+                    <Button variant="outlined" onClick={toggleTranslationAnsVisibility}>隱藏答案</Button>
+                </div>
+            ) : (
+                <Button variant="outlined" onClick={toggleTranslationAnsVisibility}>展示答案</Button>
             )}
         </section>
     );

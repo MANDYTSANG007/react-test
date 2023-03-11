@@ -4,601 +4,701 @@
             "question_id": 1,
             "question": "What is the supreme law of the land?",
             "answer": "The Constitution",
-            "translation": "這地的最高法律是什麼？"
+            "translation": "這地的最高法律是什麼？",
+            "answer2": "憲法"
         },
         {   
             "question_id": 2,
             "question": "What does the Constitution do?",
             "answer": "1. Sets up the government 2. Defines the government 3. protects basic rights of Americans ",
-            "translation": "憲法是做什麼的？"
+            "translation": "憲法是做什麼的？",
+            "answer2": "1. 設立政府 2. 定義政府 3. 保障美國人的基本權利"
         },
         {   
             "question_id": 3,
             "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
             "answer": "We the People",
-            "translation": "在憲法內自治理念中的前三個字是什麼？"
+            "translation": "在憲法內自治理念中的前三個字是什麼？",
+            "answer2": "我們人民"
         },
         {   
             "question_id": 4,
             "question": "What is an amendment?",
             "answer": " 1. A change (to the Constitution) 2. An addition (to the Constitution)",
-            "translation": "什麼是修正案"
+            "translation": "什麼是修正案",
+            "answer2": "1. 變更（憲法） 2. 補充（憲法）"
         },
         {   
             "question_id": 5,
             "question": "What do we call the first ten amendments to the Constitution?",
             "answer": "The Bill of Rights ",
-            "translation": "我們把憲法的前十項修正案稱為什麼？"
+            "translation": "我們把憲法的前十項修正案稱為什麼？",
+            "answer2": "權利法案"
         },
         {   
             "question_id": 6,
             "question": "What is one right or freedom from the First Amendment?",
             "answer": "1. Speech 2. Religion 3. Assembly 4. Press 5. Petition the government ",
-            "translation": "第一修正案規定的其中之一項權利或自由是什麼？"
+            "translation": "第一修正案規定的其中之一項權利或自由是什麼？",
+            "answer2": "1. 言論 2. 宗教 3. 集會 4. 新聞 5. 向政府請願"
         },
         {   
             "question_id": 7,
             "question": "How many amendments does the Constitution have?",
             "answer": "Twenty-seven (27)",
-            "translation": "憲法有多少條修正案？"
+            "translation": "憲法有多少條修正案？",
+            "answer2": "27條"
         },
         {   
             "question_id": 8,
             "question": "What did the Declaration of Independence do? ",
             "answer": "1. Announced our independence (from Great Britain) 2. Declared our independence (from Great Britain) 3. Said that the United States is free (from Great Britain)",
-            "translation": "獨立宣言做了什麼？"
+            "translation": "獨立宣言做了什麼？",
+            "answer2": "1. 宣布我們的獨立（脫離英國） 2. 宣布我們的獨立（脫離英國） 3. 說美國是自由的（脫離英國）"
         },
         {   
             "question_id": 9,
             "question": "What are two rights in the Declaration of Independence? ",
             "answer": "1. Life 2. Liberty 3.pursuit of happiness",
-            "translation": "《獨立宣言》中的兩項權利是什麼？"
+            "translation": "《獨立宣言》中的兩項權利是什麼？",
+            "answer2": "1.生命 2.自由 3.追求幸福"
         },
         {   
             "question_id": 10,
             "question": "What is freedom of religion? ",
             "answer": "You can practice any religion, or not practice a religion. ",
-            "translation": "什麼是宗教自由？"
+            "translation": "什麼是宗教自由？",
+            "answer2": "您可以信奉任何宗教，也可以不信奉某種宗教。"
         },
         {   
             "question_id": 11,
             "question": "What is the economic system in the United States? ",
             "answer": "1. Capitalist economy 2. Market economy",
-            "translation": "美國的經濟制度是怎樣的？"
+            "translation": "美國的經濟制度是怎樣的？",
+            "answer2": "1.資本主義經濟 2.市場經濟"
         },
         {   
             "question_id": 12,
             "question": "What is the “rule of law”? ",
             "answer": "1. Everyone must follow the law. 2. Leaders must obey the law. 3. Government must obey the law. 4. No one is above the law. ",
-            "translation": "什麼是“法治”？"
+            "translation": "什麼是“法治”？",
+            "answer2": "1.人人都必須遵守法律。 2.領導必須遵紀守法。 3.政府必須遵守法律。 4. 沒有人可以凌駕於法律之上。"
         },
         {   
             "question_id": 13,
             "question": "Name one branch or part of the government. ",
             "answer": " 1. Congress 2. Legislative 3. President 4. Executive 5. The courts 6. Judicial",
-            "translation": "說出一個部門或政府的一部分"
+            "translation": "說出一個部門或政府的一部分(選一個）",
+            "answer2": "1. 國會 2. 立法機關 3. 總統 4. 行政機關 5. 法院 6. 司法機關"
         },
         {   
             "question_id": 14,
             "question": "What stops one branch of government from becoming too powerful? ",
             "answer": "1. Checks and balances 2. Separation of powers ",
-            "translation": "是什麼阻止一個政府部門變得過於強大？"
+            "translation": "是什麼阻止一個政府部門變得過於強大？",
+            "answer2": "1.制衡 2.權力分立"
         },
         {   
             "question_id": 15,
             "question": " Who is in charge of the executive branch?",
             "answer": " The President ",
-            "translation": "誰負責行政部門？"
+            "translation": "誰負責行政部門？",
+            "answer2": "總統"
         },
         {   
             "question_id": 16,
             "question": "Who makes federal laws? ",
             "answer": " 1. Congress 2. Senate and House (of Representatives) 3. (U.S. or national) legislature",
-            "translation": "誰制定聯邦法律？"
+            "translation": "誰制定聯邦法律？",
+            "answer2": "1. 國會 2. 參議院和眾議院（眾議院） 3. （美國或國家）立法機關"
         },
         {   
             "question_id": 17,
             "question": "What are the two parts of the U.S. Congress? ",
             "answer": "The Senate and House (of Representatives) ",
-            "translation": "美國國會由哪兩部分組成？"
+            "translation": "美國國會由哪兩部分組成？",
+            "answer2": "參議院和眾議院"
         },
         {   
             "question_id": 18,
             "question": "How many U.S. Senators are there? ",
             "answer": "One hundred (100) ",
-            "translation": "美國有多少參議員？"
+            "translation": "美國有多少參議員？",
+            "answer2": "100個"
         },
         {   
             "question_id": 19,
             "question": " We elect a U.S. Senator for how many years?",
             "answer": "Six(6)",
-            "translation": "我們選舉美國參議員多少年？"
+            "translation": "我們選舉美國參議員多少年？",
+            "answer2": "6年"
         },
         {   
             "question_id": 20,
             "question": "Who is one of your state's U.S. Senators now?* ",
             "answer": "1) Alex Padilla 2) Dianne Feinstein",
-            "translation": "誰現在是你們州的美國參議員之一？"
+            "translation": "誰現在是你們州的美國參議員之一？",
+            "answer2": "1） 亞歷克斯 2）黛安娜"
         },
         {   
             "question_id": 21,
             "question": "The House of Representatives has how many voting members? ",
             "answer": "four hundred thirty-five (435)",
-            "translation": "眾議院有多少有投票權的議員？"
+            "translation": "眾議院有多少有投票權的議員？",
+            "answer2": "435個"
         },
         {   
             "question_id": 22,
             "question": "We elect a U.S. Representative for how many years? ",
             "answer": "Two(2) ",
-            "translation": "我們選舉美國代表多少年？"
+            "translation": "我們選舉美國代表多少年？",
+            "answer2": "2年"
         },
         {   
             "question_id": 23,
             "question": "Name your U.S. Representative. ",
             "answer": "Jimmy Gomez",
-            "translation": "您的美國代表"
+            "translation": "您的美國代表",
+            "answer2": "吉米"
         },
         {   
             "question_id": 24,
             "question": "Who does a U.S. Senator represent?",
             "answer": "All people of the state ",
-            "translation": "美國參議員代表誰？"
+            "translation": "美國參議員代表誰？",
+            "answer2": "全國人民"
         },
         {   
             "question_id": 25,
             "question": "Why do some states have more Representatives than other states? ",
-            "answer": "1) (because of) the people/'s population 2)(because) they have more people 3)(because) some states have more people ",
-            "translation": "為什麼有些州比其他州有更多的代表？"
+            "answer": "1) (because of) the people's population 2)(because) they have more people 3)(because) some states have more people ",
+            "translation": "為什麼有些州比其他州有更多的代表？",
+            "answer2": "1）（因為）人民/人口 2）（因為）他們有更多的人 3）（因為）一些州有更多的人"
         },
         {   
             "question_id": 26,
             "question": "We elect a President for how many years? ",
             "answer": "four (4) ",
-            "translation": "我們選總統多少年？"
+            "translation": "我們選總統多少年？",
+            "answer2": "4年"
         },
         {   
             "question_id": 27,
             "question": "In what month do we vote for President?* ",
             "answer": "November ",
-            "translation": "我們在幾月份投票選舉總統？"
+            "translation": "我們在幾月份投票選舉總統？",
+            "answer2": "11月"
         },
         {   
             "question_id": 28,
             "question": "What is the name of the President of the United States now?* ",
             "answer": "President Joe Biden ",
-            "translation": "現在美國總統叫什麼名字"
+            "translation": "現在美國總統叫什麼名字",
+            "answer2": "Joe Biden"
         },
         {   
             "question_id": 29,
             "question": "What is the name of the Vice President of the United States now? ",
             "answer": "Kamala Harris",
-            "translation": "美國副總統現在叫什麼名字"
+            "translation": "美國副總統現在叫什麼名字",
+            "answer2": "卡馬拉"
         },
         {   
             "question_id": 30,
             "question": "If the President can no longer serve, who becomes President? ",
             "answer": "the Vice President ",
-            "translation": "如果總統不能再任職，誰來當總統？"
+            "translation": "如果總統不能再任職，誰來當總統？",
+            "answer2": "副總統"
         },
         {   
             "question_id": 31,
             "question": "If both the President and the Vice President can no longer serve, who becomes President? ",
             "answer": "the Speaker of the House ",
-            "translation": "如果總統和副總統都不能再任職，誰來當總統？"
+            "translation": "如果總統和副總統都不能再任職，誰來當總統？",
+            "answer2": "眾議院議長"
         },
         {   
             "question_id": 32,
             "question": "Who is the Commander in Chief of the military? ",
             "answer": "the President",
-            "translation": "誰是軍隊的總司令？"
+            "translation": "誰是軍隊的總司令？",
+            "answer2": "總統"
         },
         {   
             "question_id": 33,
             "question": "Who signs bills to become laws? ",
             "answer": "the President ",
-            "translation": "誰簽署法案成為法律？"
+            "translation": "誰簽署法案成為法律？",
+            "answer2": "總統"
         },
         {   
             "question_id": 34,
             "question": "Who vetoes bills? ",
             "answer": "the President ",
-            "translation": "誰否決法案？"
+            "translation": "誰否決法案？",
+            "answer2": "總統"
         },
         {   
             "question_id": 35,
             "question": "What does the President’s Cabinet do? ",
             "answer": "advises the President ",
-            "translation": "總統內閣做什麼？"
+            "translation": "總統內閣做什麼？",
+            "answer2": "向總統提出建議"
         },
         {   
             "question_id": 36,
             "question": "What are two Cabinet-level positions? ",
             "answer": "1) Vice President 2)Secretary of Energy 3)Secretary of Education... ",
-            "translation": "什麼是兩個內閣級職位？"
+            "translation": "說出兩個內閣級職位？",
+            "answer2": " 1) 副總統 2) 能源部長 3) 教育部長"
         },
         {   
             "question_id": 37,
             "question": "What does the judicial branch do? ",
             "answer": "1) reviews laws 2) explains laws 3) resolves disputes (disagreements) 4) decides if a law goes against the Constitution ",
-            "translation": "司法部門是做什麼的？"
+            "translation": "司法部門是做什麼的？",
+            "answer2": "1) 審查法律 2) 解釋法律 3) 解決爭端（分歧） 4) 決定法律是否違反憲法"
         },
         {   
             "question_id": 38,
             "question": "What is the highest court in the United States? ",
             "answer": "the Supreme Court ",
-            "translation": "美國最高法院是什麼？"
+            "translation": "美國最高法院是什麼？",
+            "answer2": "最高法院"
         },
         {   
             "question_id": 39,
             "question": "How many justices are on the Supreme Court? ",
             "answer": "Nine (9) - 2022 ",
-            "translation": "最高法院有多少法官？"
+            "translation": "最高法院有多少法官？",
+            "answer2": "9個"
         },
         {   
             "question_id": 40,
             "question": "Who is the Chief Justice of the United States now? ",
             "answer": "John Roberts ",
-            "translation": "現在美國的首席大法官是誰？"
+            "translation": "現在美國的首席大法官是誰？",
+            "answer2": "約翰"
         },
         {   
             "question_id": 41,
             "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government? ",
             "answer": "1) to print money 2) to declare war 3) to create an army 4) to make treaties ",
-            "translation": "根據我們的憲法，一些權力屬於聯邦政府。 聯邦政府的一項權力是什麼？"
+            "translation": "根據我們的憲法，一些權力屬於聯邦政府。 聯邦政府的一項權力是什麼？",
+            "answer2": "1) 印錢 2) 宣戰 3) 組建軍隊 4) 締結條約"
         },
         {   
             "question_id": 42,
             "question": "Under our Constitution, some powers belong to the states. What is one power of the states? ",
-            "answer": "1) provide schooling and education 2) provide protection (police) 3) provide safety (fire departments) 4) give a driver/'s license 5) approve zoning and land use",
-            "translation": "根據我們的憲法，有一些權力屬於各州。 有那一些權力是屬於州政府？"
+            "answer": "1) provide schooling and education 2) provide protection (police) 3) provide safety (fire departments) 4) give a driver's license 5) approve zoning and land use",
+            "translation": "根據我們的憲法，有一些權力屬於各州。 有那一些權力是屬於州政府？",
+            "answer2": "1) 提供學校教育 2) 提供保護（警察） 3) 提供安全（消防部門） 4) 頒發駕駛執照 5) 批准分區和土地使用"
         },
         {   
             "question_id": 43,
             "question": "Who is the Governor of your state now? ",
             "answer": "Gavin Newsom ",
-            "translation": "現在你們州的州長是誰？"
+            "translation": "現在你們州的州長是誰？",
+            "answer2": "加文"
         },
         {   
             "question_id": 44,
             "question": "What is the capital of your state?* ",
             "answer": "Sacramento ",
-            "translation": "你所在州的首府是哪裡？"
+            "translation": "你所在州的首府是哪裡？",
+            "answer2": "薩克拉門托"
         },
         {   
             "question_id": 45,
             "question": "What are the two major political parties in the United States?* ",
             "answer": "Democratic and Republican ",
-            "translation": "美國的兩大政黨是什麼？"
+            "translation": "美國的兩大政黨是什麼？",
+            "answer2": "民主黨和共和黨"
         },
         {   
             "question_id": 46,
             "question": "What is the political party of the President now? ",
             "answer": "Democratic Party ",
-            "translation": "現在總統的政黨是什麼？"
+            "translation": "現在總統的政黨是什麼？",
+            "answer2": "民主黨"
         },
         {   
             "question_id": 47,
             "question": "What is the name of the Speaker of the House of Representatives now? ",
             "answer": "Kevin McCarthy ",
-            "translation": "現在的眾議院議長叫什麼名字？"
+            "translation": "現在的眾議院議長叫什麼名字？",
+            "answer2": "凱文"
         },
         {   
             "question_id": 48,
             "question": "There are four amendments to the Constitution about who can vote. Describe one of them. ",
             "answer": "1) Citizens eighteen (18) and older (can vote). 2) You don't have to pay (a poll tax) to vote. 3)Any citizen can vote. (Women and men can vote.) 4) A male citizen of any race (can vote). ",
-            "translation": "關於誰可以投票，憲法有四項修正案。 描述其中之一。"
+            "translation": "關於誰可以投票，憲法有四項修正案。 描述其中之一。",
+            "answer2": "1) 十八 (18) 歲及以上的公民（可以投票）。 2) 你不必支付（人頭稅）來投票。 3）任何公民都可以投票。 （女性和男性都可以投票。） 4) 任何種族的男性公民（可以投票）。"
         },
         {   
             "question_id": 49,
             "question": "What is one responsibility that is only for United States citizens?* ",
             "answer": "1) serve on a jury 2) vote in a federal election ",
-            "translation": "美國公民的其中一項責任是什麼？"
+            "translation": "美國公民的其中一項責任是什麼？",
+            "answer2": "1) 擔任陪審員 2) 在聯邦選舉中投票"
         },
         {   
             "question_id": 50,
             "question": "Name one right only for United States citizens. ",
             "answer": "1) vote in a federal election 2) run for federal office ",
-            "translation": "舉出美國公民的其中一項權利"
+            "translation": "舉出美國公民的其中一項權利",
+            "answer2": "1) 在聯邦選舉中投票 2) 競選聯邦公職"
         },
         {   
             "question_id": 51,
             "question": "What are two rights of everyone living in the United States? ",
             "answer": "1) freedom of expression 2) freedom of speech 3) freedom of assembly 4)freedom to petition the government 5)freedom of religion 6)the right to bear arms ",
-            "translation": "舉出居住在美國的每個人的兩項權利"
+            "translation": "舉出居住在美國的每個人的兩項權利",
+            "answer2": "1) 言論自由 2) 言論自由 3) 集會自由 4) 向政府請願的自由 5) 宗教自由 6) 攜帶武器的權利"
         },
         {   
             "question_id": 52,
             "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
             "answer": "1) the United States 2) the flag ",
-            "translation": "當我們宣讀效忠誓言時，我們在表達對什麼的忠誠？"
+            "translation": "當我們宣讀效忠誓言時，我們在表達對什麼的忠誠？",
+            "answer2": "1) 美國 2) 國旗"
         },
         {   
             "question_id": 53,
             "question": "What is one promise you make when you become a United States citizen? ",
-            "answer": "1) give up loyalty to other countries 2) defend the Constitution and laws of the United States 3) obey the laws of the United States 4) serve in the U.S. military (if needed) 5) serve (do important work for) the nation (if needed) ▪ be loyal to the United States ",
-            "translation": "當您成為美國公民時，您做出的一項承諾是什麼？"
+            "answer": "1) give up loyalty to other countries 2) defend the Constitution and laws of the United States 3) obey the laws of the United States 4) serve in the U.S. military (if needed) 5) serve (do important work for) the nation (if needed) 6） be loyal to the United States ",
+            "translation": "當您成為美國公民時，您做出的一項承諾是什麼？",
+            "answer2": "1) 放棄對其他國家的忠誠 2) 捍衛美國憲法和法律 3) 遵守美國法律 4) 在美國軍隊服役（如果需要） 5) 為國家服務（做重要工作，如果需要） 6） 忠於美國"
         },
         {   
             "question_id": 54,
             "question": "How old do citizens have to be to vote for President?* ",
             "answer": "Eighteen (18) and older ",
-            "translation": "公民必須多大才能投票選舉總統？"
+            "translation": "公民必須多大才能投票選舉總統？",
+            "answer2": "十八 (18) 歲及以上"
         },
         {   
             "question_id": 55,
             "question": "What are two ways that Americans can participate in their democracy? ",
-            "answer": "1) vote 2)write to a newspaper",
-            "translation": "美國人參與民主的兩種方式是什麼？"
+            "answer": "1) vote 2) write to a newspaper",
+            "translation": "美國人參與民主的兩種方式是什麼？",
+            "answer2": "1) 投票 2) 寫信給報紙"
         },
         {   
             "question_id": 56,
             "question": "When is the last day you can send in federal income tax forms?* ",
             "answer": "April 15 ",
-            "translation": "您可以提交聯邦所得稅表格的最後一天是什麼時候？"
+            "translation": "您可以提交聯邦所得稅表格的最後一天是什麼時候？",
+            "answer2": "4月15日"
         },
         {   
             "question_id": 57,
             "question": "When must all men register for the Selective Service? ",
             "answer": "1) at age eighteen (18) 2) between eighteen (18) and twenty-six (26) ",
-            "translation": "什麼時候所有男人都必須登記參加兵役?"
+            "translation": "什麼時候所有男人都必須登記參加兵役?",
+            "answer2": "1) 十八 歲 2) 十八和二十六歲之間"
         },
         {   
             "question_id": 58,
             "question": "What is one reason colonists came to America? ",
             "answer": "1)freedom ... ",
-            "translation": "殖民者來到美洲的原因之一是什麼？"
+            "translation": "殖民者來到美洲的原因之一是什麼？",
+            "answer2": "1）自由..."
         },
         {   
             "question_id": 59,
             "question": "Who lived in America before the Europeans arrived? ",
             "answer": "1) American Indians 2) Native Americans ",
-            "translation": "誰在歐洲人到來之前住在美洲？"
+            "translation": "誰在歐洲人到來之前住在美洲？",
+            "answer2": "1) 美洲印第安人 2) 美洲原住民"
         },
         {   
             "question_id": 60,
             "question": "What group of people was taken to America and sold as slaves? ",
             "answer": "1) Africans 2) people from Africa ",
-            "translation": "哪些人被帶到美國並被賣為奴隸？"
+            "translation": "哪些人被帶到美國並被賣為奴隸？",
+            "answer2": "1) 非洲人 2) 來自非洲的人"
         },
         {   
             "question_id": 61,
             "question": "Why did the colonists fight the British? ",
-            "answer": "1) because of high taxes (taxation without representation) 2) because the British army stayed in their houses (boarding, quartering) 3) because they didn/'t have self-government ",
-            "translation": "為什麼殖民者要與英國人作戰？"
+            "answer": "1) because of high taxes (taxation without representation) 2) because the British army stayed in their houses (boarding, quartering) 3) because they didn't have self-government ",
+            "translation": "為什麼殖民者要與英國人作戰？",
+            "answer2": "1）因為高稅收（沒有代表的稅收） 2）因為英國軍隊住在他們的房子裡（寄宿，宿舍） 3）因為他們沒有/沒有自治"
         },
         {   
             "question_id": 62,
             "question": "Who wrote the Declaration of Independence? ",
             "answer": "(Thomas) Jefferson ",
-            "translation": "誰寫了獨立宣言？"
+            "translation": "誰寫了獨立宣言？",
+            "answer2": "杰斐遜"
         },
         {   
             "question_id": 63,
             "question": "When was the Declaration of Independence adopted? ",
             "answer": "July 4, 1776 ",
-            "translation": "獨立宣言》是什麼時候通過的？"
+            "translation": "獨立宣言》是什麼時候通過的？",
+            "answer2": "1776 年 7 月 4 日"
         },
         {   
             "question_id": 64,
             "question": "There were 13 original states. Name three. ",
             "answer": "1) New York 2) Maryland 3)New Jersey ",
-            "translation": "美國最先有13個州。 說出三個。"
+            "translation": "美國最先有13個州。 說出三個。",
+            "answer2": "1) 紐約 2) 馬里蘭 3) 新澤西"
         },
         {   
             "question_id": 65,
             "question": "What happened at the Constitutional Convention? ",
             "answer": "1) The Constitution was written. 2) The Founding Fathers wrote the Constitution. ",
-            "translation": "制憲會議發生了什麼？"
+            "translation": "制憲會議發生了什麼？",
+            "answer2": "1) 憲法已成文。 2）開國元勳起草了憲法。"
         },
         {   
             "question_id": 66,
             "question": "When was the Constitution written? ",
             "answer": "1787 ",
-            "translation": "憲法是什麼時候寫的？"
+            "translation": "憲法是什麼時候寫的？",
+            "answer2": "1787"
         },
         {   
             "question_id": 67,
             "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers. ",
             "answer": "1) (James) Madison 2) (Alexander) Hamilton ",
-            "translation": "聯邦黨人文集支持美國憲法的通過。 說出其中一位作家的名字。"
+            "translation": "聯邦黨人文集支持美國憲法的通過。 說出其中一位作家的名字。",
+            "answer2": "1）Madison 2）Hamilton"
         },
         {   
             "question_id": 68,
             "question": "What is one thing Benjamin Franklin is famous for? ",
             "answer": "U.S. diplomat ",
-            "translation": "本傑明·富蘭克林因什麼而出名？"
+            "translation": "本傑明·富蘭克林因什麼而出名？",
+            "answer2": "美國外交官"
         },
         {   
             "question_id": 69,
             "question": "Who is the “Father of Our Country”? ",
             "answer": "(George) Washington ",
-            "translation": "誰是“國父”？"
+            "translation": "誰是“國父”？",
+            "answer2": "Washington"
         },
         {   
             "question_id": 70,
             "question": "Who was the first President?* ",
             "answer": " (George) Washington ",
-            "translation": "誰是第一任總統？"
+            "translation": "誰是第一任總統？",
+            "answer2": "Washington"
         },
         {   
             "question_id": 71,
             "question": "What territory did the United States buy from France in 1803? ",
             "answer": "1) the Louisiana Territory 2) Louisiana",
-            "translation": "美國在 1803 年從法國購買了哪些領土？"
+            "translation": "美國在 1803 年從法國購買了哪些領土？",
+            "answer2": "1) 路易斯安那領地 2) 路易斯安那"
         },
         {   
             "question_id": 72,
             "question": "Name one war fought by the United States in the 1800s. ",
             "answer": "1) Civil War 2) War of 1812 ...",
-            "translation": "舉出美國在 1800 年代打過的一場戰爭。"
+            "translation": "舉出美國在 1800 年代打過的一場戰爭。",
+            "answer2": "1) 內戰 2) 1812 年戰爭 .."
         },
         {   
             "question_id": 73,
             "question": "Name the U.S. war between the North and the South. ",
             "answer": "1) the Civil War 2) the War between the States ",
-            "translation": "美國南北戰爭稱為甚麼？"
+            "translation": "美國南北戰爭稱為甚麼？",
+            "answer2": "1) 內戰 2) 州之間的戰爭"
         },
         {   
             "question_id": 74,
             "question": "Name one problem that led to the Civil War. ",
             "answer": "1) economic reasons 2) slavery ...",
-            "translation": "列舉一個導致內戰的問題。"
+            "translation": "列舉一個導致內戰的問題。",
+            "answer2": "1）經濟原因 2）奴隸制....."
         },
         {   
             "question_id": 75,
             "question": "What was one important thing that Abraham Lincoln did?* ",
             "answer": "1) freed the slaves (Emancipation Proclamation) 2) saved (or preserved) the Union ...",
-            "translation": "亞伯拉罕·林肯做過的一件重要事情是什麼？"
+            "translation": "亞伯拉罕·林肯做過的一件重要事情是什麼？",
+            "answer2": "1) 解放奴隸（解放宣言） 2) 拯救（或保留）聯盟 .."
         },
         {   
             "question_id": 76,
             "question": "What did the Emancipation Proclamation do?",
             "answer": "1) freed the slaves 2) freed slaves in the Confederacy 3) freed slaves in the Confederate states 4) freed slaves in most Southern states ",
-            "translation": "解放宣言做了什麼？"
+            "translation": "解放宣言做了什麼？",
+            "answer2": "1) 解放奴隸 2) 解放南方邦聯的奴隸 3) 解放南方邦聯的奴隸 4) 解放大多數南方州的奴隸"
         },
         {   
             "question_id": 77,
             "question": "What did Susan B. Anthony do? ",
             "answer": "1) fought for women's rights 2) fought for civil rights ",
-            "translation": "蘇珊·B·安東尼做了什麼？"
+            "translation": "蘇珊·B·安東尼做了什麼？",
+            "answer2": "1) 為婦女權利而戰 2) 為民權而戰"
         },
         {   
             "question_id": 78,
             "question": "Name one war fought by the United States in the 1900s.* ",
             "answer": "World War I ",
-            "translation": "說出美國在 1900 年代打過的一場戰爭"
+            "translation": "說出美國在 1900 年代打過的一場戰爭",
+            "answer2": "第一次世界大戰"
         },
         {   
             "question_id": 79,
             "question": "Who was President during World War I? ",
             "answer": "(Woodrow) Wilson ",
-            "translation": "第一次世界大戰期間的總統是誰？"
+            "translation": "第一次世界大戰期間的總統是誰？",
+            "answer2": "Wilson"
         },
         {   
             "question_id": 80,
             "question": "Who was President during the Great Depression and World War II? ",
             "answer": "(Franklin) Roosevelt ",
-            "translation": "誰是大蕭條和二戰期間的總統？"
+            "translation": "誰是大蕭條和二戰期間的總統？",
+            "answer2": "Roosevelt"
         },
         {   
             "question_id": 81,
             "question": "Who did the United States fight in World War II? ",
             "answer": "Japan, Germany, and Italy ",
-            "translation": "美國在二戰中與誰作戰？"
+            "translation": "美國在二戰中與誰作戰？",
+            "answer2": "日本、德國和意大利"
         },
         {   
             "question_id": 82,
             "question": " Before he was President, Eisenhower was a general. What war was he in?",
             "answer": "World War II",
-            "translation": "在擔任總統之前，艾森豪威爾是一名將軍。 他參加過什麼戰爭？"
+            "translation": "在擔任總統之前，艾森豪威爾是一名將軍。 他參加過什麼戰爭？",
+            "answer2": "第二次世界大戰"
         },
         {   
             "question_id": 83,
             "question": "During the Cold War, what was the main concern of the United States? ",
             "answer": "Communism ",
-            "translation": "冷戰時期，美國最擔心的是什麼?"
+            "translation": "冷戰時期，美國最擔心的是什麼?",
+            "answer2": "共產主義"
         },
         {   
             "question_id": 84,
             "question": "What movement tried to end racial discrimination? ",
-            "answer": "civil rights (movement) ",
-            "translation": "什麼運動試圖結束種族歧視？"
+            "answer": "Civil rights (movement) ",
+            "translation": "什麼運動試圖結束種族歧視？",
+            "answer2": "民權運動"
         },
         {   
             "question_id": 85,
             "question": "What did Martin Luther King, Jr. do?* ",
             "answer": "1) fought for civil rights 2) worked for equality for all Americans ",
-            "translation": "馬丁路德金做了什麼？"
+            "translation": "馬丁路德金做了什麼？",
+            "answer2": "1) 為公民權利而戰 2) 為所有美國人爭取平等"
         },
         {   
             "question_id": 86,
             "question": "What major event happened on September 11, 2001, in the United States? ",
             "answer": "Terrorists attacked the United States.",
-            "translation": "2001年9月11日，美國發生了什麼大事？"
+            "translation": "2001年9月11日，美國發生了什麼大事？",
+            "answer2": "恐怖分子襲擊了美國"
         },
         {   
             "question_id": 87,
             "question": "Name one American Indian tribe in the United States. ",
             "answer": "1)Crow 2) Blackfeet ... ",
-            "translation": "說出美國的一個美洲印第安部落。"
+            "translation": "說出美國的一個美洲印第安部落。",
+            "answer2": "1) 烏鴉 2) 黑腳.."
         },
         {   
             "question_id": 88,
             "question": " Name one of the two longest rivers in the United States.",
             "answer": "1) Missouri (River) 2) Mississippi (River) ",
-            "translation": "說出美國兩條最長的河流之一。"
+            "translation": "說出美國兩條最長的河流之一。",
+            "answer2": "1) 密蘇里（河流） 2) 密西西比（河流）"
         },
         {   
             "question_id": 89,
             "question": "What ocean is on the West Coast of the United States? ",
             "answer": "Pacific (Ocean) ",
-            "translation": "美國西海岸是什麼海洋？"
+            "translation": "美國西海岸是什麼海洋？",
+            "answer2": "太平洋"
         },
         {   
             "question_id": 90,
             "question": "What ocean is on the East Coast of the United States? ",
             "answer": "Atlantic (Ocean) ",
-            "translation": "美國東海岸是什麼海洋"
+            "translation": "美國東海岸是什麼海洋",
+            "answer2": "大西洋"
         },
         {   
             "question_id": 91,
             "question": "Name one U.S. territory. ",
             "answer": "1) Guam  2) Puerto Rico",
-            "translation": "說出一個美國領土"
+            "translation": "說出一個美國領土",
+            "answer2": "1) 關島 2) 波多黎各"
         },
         {   
             "question_id": 92,
             "question": "Name one state that borders Canada. ",
             "answer": "1) New York 2) Alaska ...",
-            "translation": "說出一個與加拿大接壤的州。"
+            "translation": "說出一個與加拿大接壤的州。",
+            "answer2": "1) 紐約 2) 阿拉斯加..."
         },
         {   
             "question_id": 93,
             "question": "Name one state that borders Mexico. ",
             "answer": "1) California 2) Texas 3) Arizona ...",
-            "translation": "說出一個與墨西哥接壤的州"
+            "translation": "說出一個與墨西哥接壤的州",
+            "answer2": "1) 加利福尼亞州 2) 德克薩斯州 3) 亞利桑那州 ..."
         },
         {   
             "question_id": 94,
             "question": "What is the capital of the United States?* ",
             "answer": "Washington, D.C. ",
-            "translation": "美國的首都是哪裡"
+            "translation": "美國的首都是哪裡",
+            "answer2": "華盛頓特區"
         },
         {   
             "question_id": 95,
             "question": "Where is the Statue of Liberty?* ",
             "answer": "1)  New York (Harbor) 2) Liberty Island ",
-            "translation": "自由女神像在哪裡？"
+            "translation": "自由女神像在哪裡？",
+            "answer2": "1）紐約（海港） 2）自由島"
         },
         {   
             "question_id": 96,
             "question": "Why does the flag have 13 stripes? ",
             "answer": "1) because there were 13 original colonies 2) because the stripes represent the original colonies ",
-            "translation": "為什麼國旗有13條條紋？"
+            "translation": "為什麼國旗有13條條紋？",
+            "answer2": "1) 因為有 13 個原始殖民地 2) 因為條紋代表原始殖民地"
         },
         {   
             "question_id": 97,
             "question": "Why does the flag have 50 stars?* ",
             "answer": "1) Because there is one star for each state 2) because each star represents a state 3) because there are 50 states ",
-            "translation": "為什麼旗幟上有 50 顆星"
+            "translation": "為什麼旗幟上有 50 顆星",
+            "answer2": "1) 因為每個州有一顆星 2) 因為每個星代表一個州 3) 因為有 50 個州"
         },
         {   
             "question_id": 98,
             "question": "What is the name of the national anthem? ",
             "answer": "The Star-Spangled Banner ",
-            "translation": "國歌的名稱是什麼？"
+            "translation": "國歌的名稱是什麼？",
+            "answer2": "星條旗"
         },
         {   
             "question_id": 99,
             "question": "When do we celebrate Independence Day?* ",
             "answer": "July 4 ",
-            "translation": "我們什麼時候慶祝獨立日"
+            "translation": "我們什麼時候慶祝獨立日",
+            "answer2": "7月4日"
         },
         {   
             "question_id": 100,
             "question": "Name two national U.S. holidays. ",
             "answer": "1) New Year's Day 2) Christmas ",
-            "translation": "說出兩個美國國定假日"
+            "translation": "說出兩個美國國定假日",
+            "answer2": "1) 新年 2) 聖誕節"
         }
     ]
 }
