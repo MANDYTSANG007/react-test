@@ -14,7 +14,6 @@ const Item = styled(Paper)(({ theme }) => ({
     color: theme.palette.text.primary,
 }));
 
-
 const Home = () => {
     return (
         <div style={{ width: '100%', height: '100%' }}>
@@ -24,7 +23,7 @@ const Home = () => {
                     <Stack sx={{ p: 2 }}>
                         <Item>
                             <Panel
-                                key={q.id}
+                                key={q.question_id}
                                 id={q.question_id}
                                 question={q.question}
                                 answer={q.answer}
