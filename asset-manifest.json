@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.99368cdd.css",
-    "main.js": "/static/js/main.9d5bf5c2.js",
-    "static/media/mt-logo.png": "/static/media/mt-logo.caa282b5b621eca6f492.png",
-    "static/media/x-white.png": "/static/media/x-white.68259569f321d0ddef01.png",
-    "static/media/mt-logo.jpeg": "/static/media/mt-logo.188fbe2a12f89bd15b0a.jpeg",
-    "static/media/menu-white.png": "/static/media/menu-white.1e4dd8f99b56f3f35427.png",
-    "static/media/x.png": "/static/media/x.c1a4405f266c9f1ec8ae.png",
-    "static/media/menu.png": "/static/media/menu.aec0a2b46a82f5b64c49.png",
-    "index.html": "/index.html",
-    "main.99368cdd.css.map": "/static/css/main.99368cdd.css.map",
-    "main.9d5bf5c2.js.map": "/static/js/main.9d5bf5c2.js.map"
+    "main.css": "/react-test/static/css/main.99368cdd.css",
+    "main.js": "/react-test/static/js/main.785c8aaa.js",
+    "static/media/mt-logo.png": "/react-test/static/media/mt-logo.caa282b5b621eca6f492.png",
+    "static/media/x-white.png": "/react-test/static/media/x-white.68259569f321d0ddef01.png",
+    "static/media/mt-logo.jpeg": "/react-test/static/media/mt-logo.188fbe2a12f89bd15b0a.jpeg",
+    "static/media/menu-white.png": "/react-test/static/media/menu-white.1e4dd8f99b56f3f35427.png",
+    "static/media/x.png": "/react-test/static/media/x.c1a4405f266c9f1ec8ae.png",
+    "static/media/menu.png": "/react-test/static/media/menu.aec0a2b46a82f5b64c49.png",
+    "index.html": "/react-test/index.html",
+    "main.99368cdd.css.map": "/react-test/static/css/main.99368cdd.css.map",
+    "main.785c8aaa.js.map": "/react-test/static/js/main.785c8aaa.js.map"
   },
   "entrypoints": [
     "static/css/main.99368cdd.css",
-    "static/js/main.9d5bf5c2.js"
+    "static/js/main.785c8aaa.js"
   ]
 }
