@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f1b4670.css",
+    "main.js": "/static/js/main.b9829f93.js",
+    "static/media/mt-logo.png": "/static/media/mt-logo.caa282b5b621eca6f492.png",
+    "static/media/x-white.png": "/static/media/x-white.68259569f321d0ddef01.png",
+    "static/media/mt-logo.jpeg": "/static/media/mt-logo.188fbe2a12f89bd15b0a.jpeg",
+    "static/media/menu-white.png": "/static/media/menu-white.1e4dd8f99b56f3f35427.png",
+    "static/media/x.png": "/static/media/x.c1a4405f266c9f1ec8ae.png",
+    "static/media/menu.png": "/static/media/menu.aec0a2b46a82f5b64c49.png",
+    "index.html": "/index.html",
+    "main.2f1b4670.css.map": "/static/css/main.2f1b4670.css.map",
+    "main.b9829f93.js.map": "/static/js/main.b9829f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f1b4670.css",
+    "static/js/main.b9829f93.js"
+  ]
+}
