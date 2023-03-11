@@ -1,0 +1,94 @@
+.navbar {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    padding: 3vh;
+    height: 6vh;
+    background: transparent;
+}
+
+.navbar .directories a {
+    /* color: white; */
+    color: black;
+    text-decoration: none;
+}
+
+.navbar .directories li {
+    margin: auto 2vh;
+}
+
+.navbar .directories li:hover > a {
+    text-decoration: underline;
+    color: #f3cf1e;
+}
+
+.navbar .menu-icon {
+    height: 4vh;
+    margin-left: auto;
+}
+
+.navbar .mandy:hover {
+    cursor: pointer;
+}
+
+.navbar .menu-icon:hover {
+    cursor: pointer;
+}
+
+/* For mobile phone */
+@media only screen and (max-width: 600px) {
+    
+    /* Hide the horizontal directories */
+    .navbar .directories {
+        display: none;
+    }
+    
+    .navbar .mobile-navbar {
+        position: fixed;
+        top: 0;
+        /* background-color: #f5f5f7; */
+        background-color: black;
+        width: 70%;
+        height: 100%;
+        transition: 0.6s;
+        z-index: 1;
+        padding: 4vh 0vh 1vh 0vh;
+    }
+    
+    .navbar .mobile-directories {
+        margin-top: 5vh;
+        list-style-type: none;
+    }
+
+    .navbar .mobile-directories a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .navbar .mobile-directories li {
+        margin-top: 4vh;
+        margin-left: 15%;
+    }
+
+    .navbar .mobile-directories li:hover > a{
+        color: #f3cf1e;
+    }
+}
+
+/* For desktop */
+@media only screen and (min-width: 600px) {
+    .navbar .directories {
+        display: flex;
+        list-style-type: none;
+        margin-left: auto;
+    }
+
+    .navbar .menu-icon {
+        display: none;
+    }
+
+    .navbar .mobile-navbar {
+        display: none;
+    }
+}
