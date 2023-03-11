@@ -8,7 +8,6 @@ import Test from './components/Test/Test';
 
 function App() {
   return (
-    <>
       <Router>
         <Navbar />
         <Routes>
@@ -17,7 +16,6 @@ function App() {
         </Routes>
         <Footer />
       </Router>
-      </>
   );
 }
 
