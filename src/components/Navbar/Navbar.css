@@ -6,11 +6,16 @@
     padding: 3vh;
     height: 6vh;
     background: transparent;
+    background-color:  rgb(86, 180, 233);
+    font-weight: bold;
 }
 
+.mandy {
+    height: 10vh;
+    background-color: rgb(225, 240, 244);
+}
 .navbar .directories a {
-    /* color: white; */
-    color: black;
+    color: rgb(255,255,255);
     text-decoration: none;
 }
 
@@ -48,7 +53,7 @@
         position: fixed;
         top: 0;
         /* background-color: #f5f5f7; */
-        background-color: black;
+        background-color: rgb(0, 160, 188);
         width: 70%;
         height: 100%;
         transition: 0.6s;
@@ -63,7 +68,7 @@
 
     .navbar .mobile-directories a {
         text-decoration: none;
-        color: black;
+        color: rgb(255,255,255);
     }
 
     .navbar .mobile-directories li {

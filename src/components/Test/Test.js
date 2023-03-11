@@ -3,8 +3,9 @@ import React from "react";
 const Test = () => {
     return (
         <>
-            <h1> Test page</h1>
-            <p1>Coming Soon</p1>
+            <div style={{ width: '100%', height: '100vh' }}>
+                <h1 style={{ textAlign:'center' }}> Coming Soon </h1>
+            </div>
         </>
     )
 }
