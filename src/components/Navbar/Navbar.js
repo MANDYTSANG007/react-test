@@ -28,7 +28,7 @@ const Navbar = () => {
                 <li><Link to="/test"> Test </Link></li>
             </ul>
             <div className="mobile-navbar" style={{ left: navbar ? "0%" : "-70% " }}>
-                <p style={{ padding: "0vh 3vh", color: "white"}}>Menu</p>
+                <p style={{ padding: "0vh 3vh", color: "white" }}>Menu</p>
                 <ul className="mobile-directories">
                     <li><Link to="/"> Home </Link></li>
                     <li><Link to="/test"> Test </Link></li>

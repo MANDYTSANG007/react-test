@@ -5,17 +5,16 @@ import Footer from './components/Footer/Footer';
 import Navbar from './components/Navbar/Navbar';
 import Test from './components/Test/Test';
 
-
 function App() {
   return (
-      <Router basename="/react-test">
+    <Router basename="/react-test">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/test" element={<Test />} />
         </Routes>
         <Footer />
-      </Router>
+    </Router>
   );
 }
 

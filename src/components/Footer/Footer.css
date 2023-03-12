@@ -10,8 +10,9 @@
 }
 
 .footer-logo {
-    padding: 5vh;
+    margin: 5vh;
     height: 10vh;
+    background-color: rgb(225, 240, 244);
 }
 /* flex parent */
 .footer-nav {

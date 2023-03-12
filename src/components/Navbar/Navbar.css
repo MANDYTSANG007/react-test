@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     padding: 3vh;
-    height: 6vh;
+    min-height: 64px;
     background: transparent;
     background-color:  rgb(86, 180, 233);
     font-weight: bold;
